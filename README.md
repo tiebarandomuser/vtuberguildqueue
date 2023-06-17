@@ -1,3 +1,5 @@
+API已修复，现在查询任何人都会直接返回空
+
 # vtuberguildqueue
 vlist.json: vtuber列表，来自vtbs.moe提供的openAPI  
 
