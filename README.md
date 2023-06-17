@@ -16,3 +16,7 @@ fulldatalist
   vlist:显示为此公会的up主的基本信息  
     uid:用户id  
     name:用户名  
+
+
+originalresponse:  
+对列表中所有V的原始响应数据，留档用
