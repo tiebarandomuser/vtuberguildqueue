@@ -4,7 +4,7 @@ vlist.json: vtuber列表，来自vtbs.moe提供的openAPI
 allv.json: 所有v的公会和用户名等数据
 如果想查询某个V属于哪个公会，请在此文件中使用uid或用户名搜索
 
-finalresult.json: 最终整理结果，按公会分类
+finalresult.json: 最终整理结果，按公会分类\n
 文件内含两个数据guildinfolist和fulldatalist
 guildinfolist:
   gid:公会id
