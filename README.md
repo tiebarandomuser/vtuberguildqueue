@@ -1,4 +1,5 @@
-API已修复，现在查询任何人都会直接返回空
+API已修复，现在查询任何人都会直接返回空  
+如果遇到本仓库未收录的数据条目，可以去数据更多的laplace.live试试
 
 # vtuberguildqueue
 vlist.json: vtuber列表，来自vtbs.moe提供的openAPI  
